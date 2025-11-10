@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A2+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8;%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A2+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8;%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A2+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8" alt="Ananya Music Repo">
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%B0+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8;%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%B0+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8;%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%B0+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8" alt="Ananya Music Repo">
+</div>
+
 
 <p align="center">
   <b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b>
