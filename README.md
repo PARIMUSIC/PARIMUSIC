@@ -2,10 +2,10 @@
   <img src="AnanyaMusic/assets/AnanyaMusic.svg" alt="AnanyaMusicBot Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 Ananya Music Bot 🎵</h1>
+<h1 align="center">🎵 Pari Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Ananya+Music+Repo;Made+by+Akash+Dakshwanshi" alt="Ananya Music Repo">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Pari+Music+Repo;Made+by+Harsh+chaurasiya" alt="Ananya Music Repo">
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/AnanyaBots"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/AnanyaBots" alt="Support Channel"></a>
-  <a href="https://t.me/AnanyaBotSupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
-  <a href="https://t.me/WTF_NoHope"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
+  <a href="https://t.me/shona_bots"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Shona_bots" alt="Support Channel"></a>
+  <a href="https://t.me/shona_bots"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
+  <a href="https://t.me/king_br32"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/ZoxxOP/AnanyaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/PARIMUSIC/PARIMUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
 </p>
 
 <h2 align="center">🚀 Deploy to Render (Free)</h2>
