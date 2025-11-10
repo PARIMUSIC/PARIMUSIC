@@ -5,7 +5,7 @@
 <h1 align="center">🎵 Ananya Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Ananya+Music+Repo" alt="Ananya Music Repo">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Ananya+Music+Repo;Made+by+Akash+Dakshwanshi" alt="Ananya Music Repo">
 </p>
 
 <p align="center">
